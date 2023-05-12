@@ -1,0 +1,97 @@
+títol,
+contingut1,
+contingut2,
+contingut3,
+contingut4,
+contingut5,
+nom,
+sub1,
+sub2,
+sub3,
+sub4 {
+  display: block;
+
+  text-align: center;
+
+  margin: auto;
+
+  font-family: verdana;
+}
+
+títol {
+  position: relative;
+
+  background-color: forestgreen;
+
+  color: white;
+
+  font-weight: bold;
+
+  font-size: 35px;
+
+  top: 18px;
+
+  width: 975px;
+}
+
+continguts {
+  position: relative;
+
+  top: 20px;
+}
+
+contingut1,
+contingut2,
+contingut3,
+contingut4,
+contingut5 {
+  position: relative;
+
+  background-color: WhiteSmoke;
+
+  width: 950px;
+
+  height: 110px;
+
+  border-style: solid;
+
+  border-width: 2px;
+
+  border-color: gainsboro;
+
+  margin-top: 5px;
+}
+
+nom {
+  color: green;
+
+  font-weight: bold;
+
+  text-decoration: underline;
+
+  font-size: 25px;
+}
+
+sub1,
+sub2,
+sub3,
+sub4 {
+  font-size: 12px;
+}
+
+sub1 {
+  color: green;
+}
+
+sub2 {
+  color: firebrick;
+}
+
+sub3 {
+  color: mediumblue;
+}
+
+sub4 {
+  color: orange;
+}
+

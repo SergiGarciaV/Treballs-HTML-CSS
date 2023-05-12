@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="GeeksforGeeks.css" ?>
+<?xml-stylesheet media="screen" ?>
+<web>
+	<títol>Hello Everyone! Welcome to GeeksforGeeks</títol>
+	<continguts>
+		<contingut1>
+			<nom>
+				Algo
+			</nom>
+			<sub1>
+				Greedy Algo
+			</sub1>
+			<sub2>
+				Randomised Algo
+			</sub2>
+			<sub3>
+				Searching Algo
+			</sub3>
+			<sub4>
+				Sorting Algo
+			</sub4>
+		</contingut1>
+		<contingut2>
+			<nom>
+				Data Structures
+			</nom>
+			<sub1>
+				Array
+			</sub1>
+			<sub2>
+				Stack
+			</sub2>
+			<sub3>
+				Queue
+			</sub3>
+			<sub4>
+				Linked List
+			</sub4>
+		</contingut2>
+		<contingut3>
+			<nom>
+				Web Technology
+			</nom>
+			<sub1>
+				HTML
+			</sub1>
+			<sub2>
+				CSS
+			</sub2>
+			<sub3>
+				Java Script
+			</sub3>
+			<sub4>
+				PHP
+			</sub4>
+		</contingut3>
+		<contingut4>
+			<nom>
+				Languages
+			</nom>
+			<sub1>
+				C/C++
+			</sub1>
+			<sub2>
+				Java
+			</sub2>
+			<sub3>
+				Python
+			</sub3>
+			<sub4>
+				Ruby
+			</sub4>
+		</contingut4>
+		<contingut5>
+			<nom>
+				DBMS
+			</nom>
+			<sub1>
+				Basics
+			</sub1>
+			<sub2>
+				ER Diagram
+			</sub2>
+			<sub3>
+				Normalization
+			</sub3>
+			<sub4>
+				Transaction Concepts
+			</sub4>
+		</contingut5>
+	</continguts>
+</web>

@@ -1,0 +1,43 @@
+títol {
+  position: relative;
+  top: 30px;
+  border-width: 5px;
+  border-color: #bbd4ff;
+  border-style: solid;
+  height: 365px;
+  padding: 35px 10px 60px;
+  margin: 5px;
+}
+
+denominació {
+  position: relative;
+  top: -60px;
+  margin: 15px;
+}
+
+
+nom,
+area,
+depth,
+{
+  display: block;
+}
+
+nom,
+títol {
+  font-weight: bold;
+}
+
+títol {
+  position: relative;
+  top: -60px;
+  block-size: 47px;
+  width: 100px;
+  font-size: 40px;
+  background-color: #bbd4ff;
+  padding: 0px 150px 0px 10px;
+}
+
+nom {
+  font-size: 25px;
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Oceans_GarciaVila_Sergi.css" ?>
+<?xml-stylesheet media="screen" ?>
+
+
+
+<Dades_Geogràfiques>
+	<Oceans>
+		<títol>Oceans</títol>
+			<denominació>
+				<nom>
+					Arctic
+				</nom>
+				<area>
+					Area: 13,000 million km\B2
+				</area>
+				<depth>
+					Mean depth: 1,200 m
+				</depth>
+			</denominació>
+
+			<denominació>
+				<nom>
+					Atlantic
+				</nom>
+				<area>
+					Area: 87,000 million km\B2
+				</area>
+				<depth>
+					Mean depth: 3,900 m
+				</depth>
+			</denominació>		
+
+			<denominació>
+				<nom>
+					Pacific
+				</nom>
+				<area>
+					Area: 180,000 million km\B2
+				</area>
+				<depth>
+					Mean depth: 4,000 m
+				</depth>
+			</denominació>
+
+			<denominació>		
+				<nom>
+					Indian
+				</nom>
+				<area>
+					Area: 75,000 million km\B2
+				</area>
+				<depth>
+					Mean depth: 3,900 m
+				</depth>
+			</denominació>		
+
+			<denominació>
+				<nom>
+					Southern
+				</nom>
+				<area>
+					Area: 20,000 million km\B2
+				</area>
+				<depth>
+					Mean depth: 4,500 m
+				</depth>
+			</denominació>
+
+		</Oceans>
+	</Dades_Geogràfiques>

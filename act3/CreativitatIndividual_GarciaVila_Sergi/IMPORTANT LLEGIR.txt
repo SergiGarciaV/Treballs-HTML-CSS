@@ -1,0 +1,6 @@
+Hola Marina! 
+
+L'HTML/CSS s'executa correctament en Edge i CHROME , en Motzilla no gaire, doncs hi ha desplaçament de les imatges... :( 
+
+SI HO ANAVES A EXECUTAR DE PRIMERES NOMÉS EN CHROME O EDGE OBLIDA AQUEST .TXT  :)  
+
